@@ -9,7 +9,7 @@ variable "location" {
 variable "AppName" {
   description = "Name of the application"
   type        = string
-  default = "terraformgit"
+  default = "testinggit"
 }
 
 variable "Instance" {
